@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS selectors</title>
+    <style>
+        /* element selector */
+        div{
+            color: red;
+            background-color: black;
+        }
+
+        /* class selector */
+        .green{
+            color: green;
+            background-color: lightblue;
+        }
+
+        /* id selector */
+        #blue{
+            color:blue;
+            background-color: yellow;
+        }
+
+        /* child selector */
+        div > p{
+            color: brown;
+            background-color: aqua;
+        }
+
+        /* descendant selector */
+        div p{
+            color: yellow;
+            background-color: blue;
+        }
+
+        /* universal selector */
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        /* pseudo selectors */
+        a:visited{
+            color: red;
+        }
+
+        a:link{
+            color: chocolate;
+        }
+
+        a:active{
+            background-color: black;
+        }
+
+        a:hover{
+            background-color: purple;
+        }
+
+        p:first-child{
+            color: red;
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <main class="one">
+        <p>first person</p>
+        <p>second person</p>
+    </main>
+    <div>
+        hello everyone
+        <article>
+            <p>hii what's up</p>
+        </article>
+    </div>
+    <div class="green">
+        hi how are you
+    </div>
+    <div id="blue">
+        i am not fine
+    </div>
+    <a href="https://www.google.com">open google</a>
+    <br>
+    <a href="https://www.snapdeal.com">open snapdeal</a>
+</body>
+</html>
