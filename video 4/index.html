@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Specificity</title>
+    <style>
+        /* Selector Precedence - !important (10000) > Inline Style (1000) > ID selector (100) > Class or Attribute Selector or Pseudo Classes (10) > Element Selector and pseudo elements (1) > Universal Selector (0) */
+
+        *{
+            background-color: black; /* Universal Selector - 0 */
+        }
+
+        h1{ /* important - 10000 */
+            color: blue;
+            /* color: lime !important;  */
+            
+        } /* Element Selector -1 */
+
+        #yuf{
+            /* color: brown; */
+            /* ID Selector - 100 */
+        }
+
+        .b{
+            color: red; /* Class Selector - 10 */
+        }
+    
+        .ofunky{
+            color: green; /* Class Selector - 10 */
+        }
+    
+        .fpunky{
+            color: purple; /* Class Selector - 10 */
+        }
+        [ytf-x=b]{
+            color: darkblue; /* Attribute Selector - 10 */
+        }
+
+        a.class1.hello-class[href]:hover{
+            color: red;
+            background-color: yellow; /* 21 + 10 + 10 = 41 */
+        }
+
+        ::selection{
+            background-color: yellow; /* Pseudo Element - 1 */
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: aqu;" class="b ofunky fpunky" id="ytf" ytf-x="a">hello everyone welcome back to KG Skills Course</h1>
+    <a class="a class1 hello-class" href="https://www.youtube.com">youtube</a>
+</body>
+</html>

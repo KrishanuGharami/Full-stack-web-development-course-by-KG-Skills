@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Sizing Units</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html{
+            font-size: 15px;
+        }
+        .ola{
+            font-size: 25px;
+            border: 5px solid red;
+            width: 50vmax;
+            min-height: 10vmin;
+            box-sizing: border-box;
+        }
+        .uber{
+            font-size: 2em;
+            border: 5px solid blue;
+            margin: 28px auto;
+            width: 50vw;
+        }
+        .rapido{
+            font-size: 2rem;
+            border: 5px solid green;
+            margin: 28px auto;
+            width: 50vw;
+        }
+        .ola > div{
+            font-size: 2rem;
+            border: 5px solid purple;
+            width: 50%;
+        }
+
+        .ola > div > div{
+            font-size: 2rem;
+            border: 5px solid lime;
+            width: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="ola">
+        ola services
+        <div>This is a div. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit iure sequi facilis 
+            <div>
+                This is a nested div Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod optio voluptatum consequuntur inventore fugit! Totam, odit? Placeat reprehenderit consequatur explicabo perferendis adipisci sed amet dolore, quisquam maiores, sint, eveniet cumque error vero. Culpa, quaerat quos eos ab aperiam optio unde molestias magnam sapiente et esse.
+            </div>
+        </div>
+    </div>
+
+    <div class="uber">
+        <div>
+            uber services
+        </div>
+    </div>
+
+    <div class="rapido">
+        <div>
+            rapido services
+        </div>
+    </div>
+</body>
+</html>
