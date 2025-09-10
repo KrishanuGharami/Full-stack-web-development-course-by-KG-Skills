@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Full Stack Web Development Course 2025" />
+  <img src="assets/banner.png" alt="Full Stack Web Development Course 2026" />
 </p>
 
 > 📚 Learn Full Stack Web Development from **Basics to Advanced** in one complete course.  
