@@ -75,7 +75,7 @@ Contributions are welcome! If you’d like to improve the source code, fix bugs,
 
 ## 📬 Contact
 
-### 👨‍💻 Krishanu Gharami
+# 👨‍💻 Krishanu Gharami
 
 📺 YouTube: [**KRISHANU GHARAMI - Skills**](https://www.youtube.com/@krishanugharami-skills)
 
