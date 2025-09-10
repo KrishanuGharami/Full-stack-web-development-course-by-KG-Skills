@@ -77,8 +77,8 @@ Contributions are welcome! If you’d like to improve the source code, fix bugs,
 
 ### 👨‍💻 Krishanu Gharami
 
-<::marker></::marker> 📺 YouTube: [**KRISHANU GHARAMI - Skills**](https://www.youtube.com/@krishanugharami-skills)
+● 📺 YouTube: [**KRISHANU GHARAMI - Skills**](https://www.youtube.com/@krishanugharami-skills)
 
-📧 Email: [**24krishanugharami@gmail.com**](mailto:24krishanugharami@gmail.com)
+● 📧 Email: [**24krishanugharami@gmail.com**](mailto:24krishanugharami@gmail.com)
 
-💼 LinkedIn: [**KRISHANU GHARAMI**](https://www.linkedin.com/in/krishanugharami/)
+● 💼 LinkedIn: [**KRISHANU GHARAMI**](https://www.linkedin.com/in/krishanugharami/)
