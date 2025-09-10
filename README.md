@@ -67,7 +67,7 @@ Contributions are welcome! If you’d like to improve the source code, fix bugs,
 
 1. Fork the repository
 
-2. Create a new branch (feature-name)
+2. Create a new branch (**feature-name**)
 
 3. Commit your changes
 
