@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Full Stack Web Development Course 2026" />
+  <img width="1920" height="1080" alt="20250910_162418" src="https://github.com/user-attachments/assets/38a1b6bb-79f7-4b71-9cad-a0adfb01cd3c" />
 </p>
 
 > 📚 Learn Full Stack Web Development from **Basics to Advanced** in one complete course.  
