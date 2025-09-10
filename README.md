@@ -54,3 +54,21 @@ Whether you are a beginner or want to strengthen your advanced web development s
 1. Clone this repository:  
    ```bash
    git clone https://github.com/KrishanuGharami/Full-stack-web-development-course-by-KG-Skills.git
+
+2. Open the project folder in your favorite editor (VS Code recommended).
+
+3. Follow along with the course videos in the playlist.
+
+4. Run the projects locally and practice by modifying the code.
+
+## 🤝 Contribution
+
+Contributions are welcome! If you’d like to improve the source code, fix bugs, or add new features:
+
+1. Fork the repository
+
+2. Create a new branch (feature-name)
+
+3. Commit your changes
+
+4. Submit a pull request
