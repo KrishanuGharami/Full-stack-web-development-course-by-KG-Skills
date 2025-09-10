@@ -82,3 +82,13 @@ Contributions are welcome! If you’d like to improve the source code, fix bugs,
 ● 📧 Email: [**24krishanugharami@gmail.com**](mailto:24krishanugharami@gmail.com)
 
 ● 💼 LinkedIn: [**KRISHANU GHARAMI**](https://www.linkedin.com/in/krishanugharami/)
+
+## ⭐ Support
+
+If you find this course helpful, don’t forget to:
+
+● ⭐ Star this repository
+
+● 🎥 Subscribe to my YouTube channel
+
+● 📢 Share this playlist with friends
